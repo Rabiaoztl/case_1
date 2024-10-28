@@ -4,7 +4,7 @@
  Bu projede Console.Writeline() yazdırma komutunu öğrendim ve bu komutla Merhaba Dünya yazdırdım.String ve int değişkenlerini ve değer atamalarını öğrendim.
  
  # :star2: Proje 2 (02_Variables):Değişkenler
- Bu projede char ve double değişkenlerini tamamladım. Klavyeden veri ğirişini Console.Readline() ile yapılacağını öğrendim ve string dışında bir değişkense değişken.parse(Console.Readline()) yazılması gerektiğini öğrendim. Yazdırma komutu olan Console.Writeline() ve Console.Write() arasındaki farkı öğrendim. 
+ Bu projede char ve double değişkenlerini tamamladım. Klavyeden veri girişini Console.Readline() ile yapılacağını öğrendim ve string dışında bir değişkense değişken.parse(Console.Readline()) yazılması gerektiğini öğrendim. Yazdırma komutu olan Console.Writeline() ve Console.Write() arasındaki farkı öğrendim. 
 
  # :star2: Proje 3 (03_MakingDecision):Karar Verme Yapıları
  Bu projede If-Else yapısını ve elif-else yapılarını ne zaman kullanıcağımı öğrendim. Switch case yapısının nasıl yazıldığını öğrenip örnekle pekiştirdim.
